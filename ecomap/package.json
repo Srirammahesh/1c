@@ -1,0 +1,27 @@
+{
+  "name": "sri-db--1c",
+  "version": "1.0.0",
+  "description": "building a simple ecomap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srirammahesh/sri-db--1c.git"
+  },
+  "keywords": [
+    "git",
+    "tcesession"
+  ],
+  "author": "sriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srirammahesh/sri-db--1c/issues"
+  },
+  "homepage": "https://github.com/Srirammahesh/sri-db--1c#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
